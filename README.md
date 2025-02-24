@@ -1,2 +1,5 @@
 # rust-graphql-api
-Rust + GraphQLの学習用リポジトリ
+
+Rust を用いた GraphQL サーバーです。
+
+## セットアップ手順
